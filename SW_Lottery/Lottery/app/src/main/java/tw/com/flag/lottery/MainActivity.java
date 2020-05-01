@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     public void lottery(View view) {
         int[] lottery = createLottery();
         HashMap<String, String> row = new HashMap<>();
-        row.put(from[0], "第"+(data.size()+1)+"組");
+        row.put(from[0], "Group"+(data.size()+1));
         row.put(from[1], ""+lottery[0]);
         row.put(from[2], ""+lottery[1]);
         row.put(from[3], ""+lottery[2]);
