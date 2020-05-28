@@ -7,5 +7,5 @@ and combine with methods written in Java.
 *English Version  
 ![](https://github.com/Shanda1020/AndroidStudio/blob/master/SW_Lottery/Lottery/lottery.jpg?raw=true)
 
-*English Version  
+*Chinese Version  
 ![](https://github.com/Shanda1020/AndroidStudio/blob/master/SW_Lottery/Lottery/lot.jpg?raw=true)
