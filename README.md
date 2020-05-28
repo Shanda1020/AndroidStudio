@@ -9,5 +9,5 @@ Please take a look.
 Lottery Picker  (in English version)
 ![](https://github.com/Shanda1020/AndroidStudio/blob/master/SW_Lottery/Lottery/lottery.jpg?raw=true)  
 Lottery Picker  (in Chinese version)  
-![](https://github.com/Shanda1020/AndroidStudio/blob/master/SW_Lottery/Lottery/lottery.jpg?raw=true)  
+![](https://github.com/Shanda1020/AndroidStudio/blob/master/SW_Lottery/Lottery/lot.jpg?raw=true)  
 
