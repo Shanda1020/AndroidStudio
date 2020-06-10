@@ -1,5 +1,6 @@
 # OpenWeather App  
-
+  
+![](https://github.com/Shanda1020/AndroidStudio/blob/master/OpenWeather/openWeather.png)  
   
 ## Introduction  
 This is a RESTful API client app which receives the current weather of Taipei.  
