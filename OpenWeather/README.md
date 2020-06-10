@@ -40,14 +40,13 @@ It is the MainAvtivity.
   
 **Controller**  
 I create a package called WeatherService, and it includes the :  
- *WeatherServiceProvider.java (create a Retrofit builder & converter)*  
- *WeatherService.interface (Retrofit turns the HTTP API into a Java interface.)*  
+ *WeatherServiceProvider.java (create a Retrofit builder & converter)  
+ *WeatherService.interface (Retrofit turns the HTTP API into a Java interface.)  
+  
 Another package called Event, and it includes the :
- *ErrorEvent
- *WeatherEvent
+ *ErrorEvent(Fail to connect)    
+ *WeatherEvent(Get the data and changing UI icon)  
+     
+  
+## License
 
-
-
-
-
-##License
