@@ -43,11 +43,12 @@ I create a package called WeatherService, and it includes the :
  *WeatherServiceProvider.java (create a Retrofit builder & converter)  
  *WeatherService.interface (Retrofit turns the HTTP API into a Java interface.)  
   
-Another package called Event, and it includes the :
+Another package called Event, and it includes the :  
  *ErrorEvent(Fail to connect)    
  *WeatherEvent(Get the data and changing UI icon)  
      
   
-## [Course Certificate](https://www.udemy.com/certificate/UC-f41f3777-90da-4315-acc0-9d3955536365/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
-
+## [Course Certificate](https://www.udemy.com/certificate/UC-f41f3777-90da-4315-acc0-9d3955536365/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)  
+  
+![](https://github.com/Shanda1020/AndroidStudio/blob/master/OpenWeather/UdemyCertificate.jpg)
 
