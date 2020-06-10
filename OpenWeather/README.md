@@ -7,7 +7,7 @@ It contains the MVC design pattern concept, and the way of refracting the code.
 In the project, I built a weather forecast app using a service called DarkSky API.  
 And here are some libraries I used  
   
-**1. [Retrofit](https://square.github.io/retrofit/):** 
+**1. [Retrofit](https://square.github.io/retrofit/):**   
  *To get response from an ApI sever.  
  *A HTTP client for Android and Java.  
  *Retrofit turns HTTP API into Java interface.   
