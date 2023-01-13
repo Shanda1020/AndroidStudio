@@ -1,9 +1,12 @@
 # AndroidStudio  
-So where can I implement my ideas and skills?  
-I think the answer will be found in the App development.  
-In here, I will put some of my Android App projects,  
-which they are written in Android Studio(Java).  
-Please take a look.  
+Hello, I'm Neo. 
+I'm interesting in doing Web and App development,
+so I started to learn the skills at 2020.  
+
+There are some Android App projectswritten in Android Studio(Java),
+which are my very first projects.  
+
+Please take a look :)
   
 Open Weather  
 ![](https://github.com/Shanda1020/AndroidStudio/blob/master/OpenWeather/openWeather.png)  
